@@ -1,2 +1,2 @@
-# fernbedienungsanwendung
+# Fernbedienungsanwendung
 Remote control application
