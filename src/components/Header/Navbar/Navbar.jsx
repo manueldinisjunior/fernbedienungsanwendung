@@ -52,7 +52,7 @@ const Navbar = ({ toggleMenu, isMenuOpen }) => {
               ["icon-todo", "Todo List"],
               ["icon-calendar", "Calendar"],
               ["icon-reminder", "Reminders"],
-              ["icon-planning", "Beratungs"],
+              ["icon-planning", "Planning"],
             ].map(([className, text], index) => (
               <li key={`features-${index}`}>
                 <a
